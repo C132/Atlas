@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectUnit Id="955416730" Position="19.5,19.5,0" Rotation="1.917" Scale="1,1,1" UnitType="Nexus" Player="1"/>
+    <ObjectUnit Id="1304615937" Position="68.5,68.5,0" Rotation="2.5205" Scale="1,1,1" UnitType="Nexus" Player="2"/>
+    <ObjectUnit Id="360223303" Position="54,68,0" Rotation="1.0703" Scale="1,1,1" UnitType="PhotonCannon" Player="2"/>
+    <ObjectUnit Id="553744809" Position="20,34,0" Rotation="0.5002" Scale="1,1,1" UnitType="PhotonCannon" Player="1"/>
+    <ObjectUnit Id="874877780" Position="34,20,0" Rotation="2.4467" Scale="1,1,1" UnitType="PhotonCannon" Player="1"/>
+    <ObjectUnit Id="1846092517" Position="68,54,0" Rotation="5.407" Scale="1,1,1" UnitType="PhotonCannon" Player="2"/>
+    <ObjectUnit Id="565244188" Position="68,56,0" Scale="1,1,1" UnitType="Pylon" Player="2"/>
+    <ObjectUnit Id="701946284" Position="20,32,0" Scale="1,1,1" UnitType="Pylon" Player="1"/>
+    <ObjectUnit Id="955050292" Position="32,20,0" Scale="1,1,1" UnitType="Pylon" Player="1"/>
+    <ObjectUnit Id="1154459982" Position="56,68,0" Scale="1,1,1" UnitType="Pylon" Player="2"/>
+    <ObjectUnit Id="536021433" Position="61.3027,66.8842,0" Rotation="0.9443" Scale="1,1,1" UnitType="RaynorCommando" Player="2"/>
+    <ObjectUnit Id="1813599540" Position="21.1154,26.697,0" Rotation="0.6262" Scale="1,1,1" UnitType="RaynorCommando" Player="1"/>
+    <ObjectUnit Id="494584633" Position="17.8698,26.8398,0" Rotation="2.6296" Scale="1,1,1" UnitType="RaynorLab" Player="1"/>
+    <ObjectUnit Id="922906604" Position="61.16,70.13,0" Rotation="5.224" Scale="1,1,1" UnitType="RaynorLab" Player="2"/>
+    <ObjectUnit Id="150913141" Position="30,20,0" Scale="1,1,1" UnitType="ShieldBattery" Player="1"/>
+    <ObjectUnit Id="587139227" Position="20,30,0" Scale="1,1,1" UnitType="ShieldBattery" Player="1"/>
+    <ObjectUnit Id="650631225" Position="58,68,0" Scale="1,1,1" UnitType="ShieldBattery" Player="2"/>
+    <ObjectUnit Id="2093224368" Position="68,58,0" Scale="1,1,1" UnitType="ShieldBattery" Player="2"/>
+    <Group Type="ObjectUnit" Name="Unit Group 001" Id="1">
+        <GroupObject Id="360223303"/>
+        <GroupObject Id="536021433"/>
+        <GroupObject Id="565244188"/>
+        <GroupObject Id="650631225"/>
+        <GroupObject Id="1154459982"/>
+        <GroupObject Id="1304615937"/>
+        <GroupObject Id="1846092517"/>
+        <GroupObject Id="2093224368"/>
+    </Group>
+</PlacedObjects>
